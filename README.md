@@ -8,5 +8,7 @@
 Hi👋...how are you doing today?
 
 ![](https://komarev.com/ghpvc/?username=msx47&color=green)
+<br/>
 [![Stats](https://github-readme-stats.vercel.app/api?username=msx47&hide=contribs,issues&show_icons=true&theme=radical)](https://github.com/msx47/github-readme-stats)
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=msx47&layout=compact)](https://github.com/msx47/github-readme-stats)
+
