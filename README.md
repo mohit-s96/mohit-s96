@@ -8,4 +8,6 @@
 Hi👋...how are you doing today?
 
 ![](https://komarev.com/ghpvc/?username=msx47&color=green)
+[![Stats](https://github-readme-stats.vercel.app/api?username=msx47)](https://github.com/msx47/github-readme-stats)
+
 
